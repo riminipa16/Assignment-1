@@ -1,0 +1,46 @@
+.wrapper{
+    width: 1200px;
+    margin: 0 auto;
+}
+body{
+    font-size: 25px;
+}
+#pageheader {
+background-color:skyblue;
+}
+
+.ourmenu{
+    background-color: yellow;
+}
+img.logo{
+    width:250px;
+    height: auto;
+} 
+
+.ourmenu ul li{
+    display: inline;
+}
+.footnote{
+    background-color: pink;
+}
+.quote{
+    background-color:yellowgreen;
+}
+.righttoleft{
+    background-color: violet;
+}
+.datainformation{
+    background-color:palevioletred;
+}
+#table1, #table1 th, #table1 td{
+    border: 1px solid #000;
+}
+#table1{
+    background-color: pink;
+}
+.secondrow{
+    background-color: bisque;
+}
+.fourthrow{
+    background-color: bisque;
+}
